@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Tsilav0 fortnite pro player
+- 👋 Hi, I’m @Tsilav0
 - 🌱 I’m currently learning C
